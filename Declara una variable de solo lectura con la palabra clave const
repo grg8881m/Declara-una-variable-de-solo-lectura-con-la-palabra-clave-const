@@ -1,0 +1,12 @@
+/*
+Cambia el código para que todas las variables sean declaradas usando let o const. Usa let cuando quieras que la variable cambie, y const cuando quieras que la variable permanezca constante. Además, renombra las variables declaradas con const para adaptarse a las prácticas comunes, lo que significa que las constantes deben estar todas en mayúsculas.
+var fCC = "freeCodeCamp"; // Cambia esta línea
+var fact = "is cool!"; // Cambia esta línea
+fact = "is awesome!";
+console.log(fCC, fact); // Cambia esta línea
+*/
+
+const FCC = "freeCodeCamp"; // Cambia esta línea
+let fact = "is cool!"; // Cambia esta línea
+fact = "is awesome!";
+console.log(FCC, fact); // Cambia esta línea
